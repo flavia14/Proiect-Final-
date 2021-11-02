@@ -23,7 +23,7 @@ public class Vanzari_Form {
     public Vanzari_Form() {
         produse = new ArrayList<Produs>();
         produse.add(0, new Produs("Senzori sitem frânare", "DELPHI", "Senzor ABS", "SS20005", "4",66));
-        produse.add(1, new Produs("Senzori parcare", "VALEO", "Senzori FAȚA-SPATE cu avertizare sonoră", "SQ632200", "3",327));
+        produse.add(1, new Produs("Senzori parcare", "VALEO", "Senzori F-S cu avertizare sonoră", "SQ632200", "3",327));
         produse.add(2, new Produs("Cablaje pentru oglinzi", "CNH", "Cablaj conectare oglindă", "RG2997387", "1",152));
         produse.add(3, new Produs("Cutii de viteze automate", "VW PASSAT", "DSG", "3C2 220864", "2",4500));
         produse.add(4, new Produs("Cutii de viteze manuale", "Audi A4 B8", "OGS", "0b1301103", "5",1500));
